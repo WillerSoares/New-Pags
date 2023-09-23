@@ -1,7 +1,7 @@
-<h1 align="center"> Pagina Login </h1>
+<h1 align="center"> Login | Cadastro | Recuperar Senha </h1>
 
 <p align="center">
- Pagina Sendo Desenvolvida para o Projeto "Casa Animal" <br/>
+ Paginas  Desenvolvidas para o Projeto "Casa Animal" <br/>
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML | CSS | JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
 Casa Animal, é um projeto de um E-commerce, voltado para pet's.
-Projeto ainda em desenvolvimento.
-Aqui está só uma pequena parte do projeto.
-Pagina Login, com link's para mais duas paginas. Uma de recuperação de senha, e outra de cadastro.
+Projeto feito durante o Curso de Introdução a Programação, com Foco em FrontEnd.
+Curso Oferecido Pela Proz educação em parceria com as empresas Meta e AWS.
+Pagina Login, contem link's para duas paginas. Uma de recuperação de senha, e outra de cadastro.
 
 - [Visite o projeto online] (https://willersoares.github.io/New-Pags/)
 
